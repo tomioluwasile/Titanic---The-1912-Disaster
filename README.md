@@ -24,6 +24,12 @@ Data Type: Multivariate
 Attributes: 12
 
 Instances: 1309
+
+12 Columns: 
+ - #️⃣ Integer -  5
+ - 🔤 String -  3
+ - #️⃣ Decimal - 2
+ - ❔ Other -  2
  
 ## 🧰 Technologies used
  * Pandas
