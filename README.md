@@ -10,7 +10,7 @@ This repository contains two different notebook versions
 * Optimized and written for Kaggle submission
 * Uses **scikit-learn** to run prediction
 
-**2️⃣ Traditional Version (titanic_notebook.ipynb)**
+**2️⃣ Custom Version (titanic_notebook.ipynb)**
 * A more robust notebook with multiple data visualisations
 * Uses **tensorflow** to run prediction 
 
@@ -36,7 +36,7 @@ Instances: 1309
 
 ## 🔧 Algorithms Implemented
 * Random Forest Classifier (in kaggle version)
-* Linear Regression (in traditional version) - 83.59% model accuracy
+* Linear Regression (in custom version) - 83.59% model accuracy
 
 ## ▶️ How to run
 Clone and run in an interactive jupyter notebook environment
