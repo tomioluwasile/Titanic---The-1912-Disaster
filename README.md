@@ -21,6 +21,8 @@ Task: Classification
 
 Data Type: Multivariate
 
+File Type: .csv
+
 Attributes: 12
 
 Instances: 1309
